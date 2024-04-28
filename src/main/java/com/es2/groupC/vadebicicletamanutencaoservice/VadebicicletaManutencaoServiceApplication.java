@@ -1,13 +1,13 @@
-package com.es2.groupC.vadebicicletaadminservice;
+package com.es2.groupC.vadebicicletamanutencaoservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class VadebicicletaAdminServiceApplication {
+public class VadebicicletaManutencaoServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(VadebicicletaAdminServiceApplication.class, args);
+		SpringApplication.run(VadebicicletaManutencaoServiceApplication.class, args);
 	}
 
 }

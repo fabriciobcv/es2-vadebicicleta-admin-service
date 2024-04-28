@@ -1,10 +1,10 @@
-package com.es2.groupC.vadebicicletaadminservice;
+package com.es2.groupC.vadebicicletamanutencaoservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VadebicicletaAdminServiceApplicationTests {
+class VadebicicletaManutencaoServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
